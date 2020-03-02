@@ -2,3 +2,16 @@
 /Users/Guest/Desktop/Replace.Solution/Replace.Tests/obj/Debug/netcoreapp2.2/Replace.Tests.csproj.CoreCompileInputs.cache
 /Users/Guest/Desktop/Replace.Solution/Replace.Tests/obj/Debug/netcoreapp2.2/Replace.Tests.AssemblyInfoInputs.cache
 /Users/Guest/Desktop/Replace.Solution/Replace.Tests/obj/Debug/netcoreapp2.2/Replace.Tests.AssemblyInfo.cs
+/Users/Guest/Desktop/Replace.Solution/Replace.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/Guest/Desktop/Replace.Solution/Replace.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/Guest/Desktop/Replace.Solution/Replace.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/Guest/Desktop/Replace.Solution/Replace.Tests/bin/Debug/netcoreapp2.2/Replace.Tests.deps.json
+/Users/Guest/Desktop/Replace.Solution/Replace.Tests/bin/Debug/netcoreapp2.2/Replace.Tests.runtimeconfig.json
+/Users/Guest/Desktop/Replace.Solution/Replace.Tests/bin/Debug/netcoreapp2.2/Replace.Tests.runtimeconfig.dev.json
+/Users/Guest/Desktop/Replace.Solution/Replace.Tests/bin/Debug/netcoreapp2.2/Replace.Tests.dll
+/Users/Guest/Desktop/Replace.Solution/Replace.Tests/bin/Debug/netcoreapp2.2/Replace.Tests.pdb
+/Users/Guest/Desktop/Replace.Solution/Replace.Tests/bin/Debug/netcoreapp2.2/Replace.dll
+/Users/Guest/Desktop/Replace.Solution/Replace.Tests/bin/Debug/netcoreapp2.2/Replace.pdb
+/Users/Guest/Desktop/Replace.Solution/Replace.Tests/obj/Debug/netcoreapp2.2/Replace.Tests.csproj.CopyComplete
+/Users/Guest/Desktop/Replace.Solution/Replace.Tests/obj/Debug/netcoreapp2.2/Replace.Tests.dll
+/Users/Guest/Desktop/Replace.Solution/Replace.Tests/obj/Debug/netcoreapp2.2/Replace.Tests.pdb

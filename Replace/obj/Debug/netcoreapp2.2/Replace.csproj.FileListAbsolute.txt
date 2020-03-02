@@ -2,3 +2,8 @@
 /Users/Guest/Desktop/Replace.Solution/Replace/obj/Debug/netcoreapp2.2/Replace.csproj.CoreCompileInputs.cache
 /Users/Guest/Desktop/Replace.Solution/Replace/obj/Debug/netcoreapp2.2/Replace.AssemblyInfoInputs.cache
 /Users/Guest/Desktop/Replace.Solution/Replace/obj/Debug/netcoreapp2.2/Replace.AssemblyInfo.cs
+/Users/Guest/Desktop/Replace.Solution/Replace/bin/Debug/netcoreapp2.2/Replace.deps.json
+/Users/Guest/Desktop/Replace.Solution/Replace/bin/Debug/netcoreapp2.2/Replace.dll
+/Users/Guest/Desktop/Replace.Solution/Replace/bin/Debug/netcoreapp2.2/Replace.pdb
+/Users/Guest/Desktop/Replace.Solution/Replace/obj/Debug/netcoreapp2.2/Replace.dll
+/Users/Guest/Desktop/Replace.Solution/Replace/obj/Debug/netcoreapp2.2/Replace.pdb
