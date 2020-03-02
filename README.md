@@ -5,7 +5,7 @@
 #### By _**Dana Luukko**_
 
 ## Description
-####_A C# application that creates a range from 0 to the user's input and replaces numbers divisible by 3 with "ping", numbers divisible by 5 with "pong", and numbers divisible by both 3 and 5 with "ping-pong"._
+#### _A C# application that creates a range from 0 to the user's input and replaces numbers divisible by 3 with "ping", numbers divisible by 5 with "pong", and numbers divisible by both 3 and 5 with "ping-pong"._
 
 ## Project Specifications
 
