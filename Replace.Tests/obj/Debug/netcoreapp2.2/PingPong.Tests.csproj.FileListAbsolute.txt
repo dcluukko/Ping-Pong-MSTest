@@ -1,0 +1,4 @@
+/Users/Guest/Desktop/Ping-Pong.Solution/PingPong.Tests/obj/Debug/netcoreapp2.2/PingPong.Tests.csprojAssemblyReference.cache
+/Users/Guest/Desktop/Ping-Pong.Solution/PingPong.Tests/obj/Debug/netcoreapp2.2/PingPong.Tests.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/Ping-Pong.Solution/PingPong.Tests/obj/Debug/netcoreapp2.2/PingPong.Tests.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/Ping-Pong.Solution/PingPong.Tests/obj/Debug/netcoreapp2.2/PingPong.Tests.AssemblyInfo.cs

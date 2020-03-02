@@ -1,0 +1,4 @@
+/Users/Guest/Desktop/Replace.Solution/Replace.Tests/obj/Debug/netcoreapp2.2/Replace.Tests.csprojAssemblyReference.cache
+/Users/Guest/Desktop/Replace.Solution/Replace.Tests/obj/Debug/netcoreapp2.2/Replace.Tests.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/Replace.Solution/Replace.Tests/obj/Debug/netcoreapp2.2/Replace.Tests.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/Replace.Solution/Replace.Tests/obj/Debug/netcoreapp2.2/Replace.Tests.AssemblyInfo.cs
